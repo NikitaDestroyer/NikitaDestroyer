@@ -1,7 +1,7 @@
 TODO: 1. Customize options for repo stats
       2. Customize for lang card
 // Add Banner picture 
-[![MasterHead]((![banner (3)](https://github.com/NikitaDestroyer/NikitaDestroyer/assets/90207780/f4f83f04-4187-42b9-a72e-47be029d61e5)
+((![banner (3)](https://github.com/NikitaDestroyer/NikitaDestroyer/assets/90207780/f4f83f04-4187-42b9-a72e-47be029d61e5)
 )](https://github.com/NikitaDestroyer)
 
   
