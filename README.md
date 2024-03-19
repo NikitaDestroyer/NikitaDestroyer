@@ -7,9 +7,9 @@ I`am currently working on my ML portfolio<br>Studying applied mathematics, willi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="your link" target="blank"><img align="center" src="https://t.me/Kulakov_Nikita" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://vk.com/yourdeepnightmare" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://www.linkedin.com/in/nikita-kulakov-938b35224/" alt="" height="30" width="40" /></a>
+<a href="https://vk.com/yourdeepnightmare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/%D1%81%D0%B1%D0%B5%D1%80/jobs/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="[https://vk.com/yourdeepnightmare](https://t.me/Kulakov_Nikita)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a
 </p>
 
 # 💻 My Tech Stack:
