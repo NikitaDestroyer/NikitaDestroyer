@@ -1,47 +1,35 @@
-# 💫 About Me:
-I`am currently working on my ML portfolio<br>Studying applied mathematics, willing to be a math-modelist at FinTech<br>In near future I want a big scale project and take a part in full path ML-project creation
+<h1 align="center">Nikita Kulakov</h1>
+<p align="center"><strong>Applied Mathematics · Machine Learning · FinTech</strong></p>
 
+[![Profile banner](https://github.com/NikitaDestroyer/NikitaDestroyer/assets/90207780/f4f83f04-4187-42b9-a72e-47be029d61e5)](https://github.com/NikitaDestroyer)
 
-((![banner (3)](https://github.com/NikitaDestroyer/NikitaDestroyer/assets/90207780/f4f83f04-4187-42b9-a72e-47be029d61e5)
-)](https://github.com/NikitaDestroyer)
+I study applied mathematics and build machine learning projects. I'm interested in mathematical modeling for FinTech and want to work on a large-scale ML project through the full lifecycle, from defining the problem to deployment.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://vk.com/yourdeepnightmare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/company/%D1%81%D0%B1%D0%B5%D1%80/jobs/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://t.me/Kulakov_Nikita" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a
+[Telegram](https://t.me/Kulakov_Nikita) · [VK](https://vk.com/yourdeepnightmare)
+
+## GitHub activity
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NikitaDestroyer&amp;theme=tokyonight" alt="GitHub totals for stars, commits, pull requests, issues, and repositories contributed to">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaDestroyer&amp;theme=tokyonight" alt="Top languages by number of repositories">
+</p>
+<p align="center">
+  <a href="https://github.com/NikitaDestroyer#contribution-activity">
+    <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=NikitaDestroyer&amp;bg_color=1a1b27&amp;color=c0caf5&amp;line=7aa2f7&amp;point=bb9af7&amp;area=true&amp;area_color=7aa2f7&amp;hide_border=true&amp;custom_title=Contribution%20activity" alt="GitHub contribution activity over the last 31 days">
+  </a>
 </p>
 
-# 💻 My Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-# 📊 My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NikitaDestroyer&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NikitaDestroyer&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaDestroyer&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## Featured project
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NikitaDestroyer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Segmentation of hernias and protrusions in sagittal spine images](https://github-readme-stats.vercel.app/api/pin/?username=NikitaDestroyer&repo=Segmentation_saggital_images&theme=tokyonight)](https://github.com/NikitaDestroyer/Segmentation_saggital_images)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+## Tech stack
 
----
-[![](https://visitcount.itsvg.in/api?id=NikitaDestroyer&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-// Add Banner picture 
-((![banner (3)](https://github.com/NikitaDestroyer/NikitaDestroyer/assets/90207780/f4f83f04-4187-42b9-a72e-47be029d61e5)
-)](https://github.com/NikitaDestroyer)
-
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaDestroyer&show_icons=true&theme=blue-green&show_owner=true)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NikitaDestroyer&repo=Segmentation_saggital_images)](https://github.com/NikitaDestroyer/Segmentation_saggital_images)
-      
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaDestroyer&layout=compact)
-
-
+![Python](https://img.shields.io/badge/Python-24283b?logo=python&logoColor=7aa2f7)
+![C++](https://img.shields.io/badge/C%2B%2B-24283b?logo=cplusplus&logoColor=7aa2f7)
+![PyTorch](https://img.shields.io/badge/PyTorch-24283b?logo=pytorch&logoColor=ff9e64)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-24283b?logo=scikitlearn&logoColor=ff9e64)
+![pandas](https://img.shields.io/badge/pandas-24283b?logo=pandas&logoColor=bb9af7)
+![NumPy](https://img.shields.io/badge/NumPy-24283b?logo=numpy&logoColor=7dcfff)
+![SciPy](https://img.shields.io/badge/SciPy-24283b?logo=scipy&logoColor=7dcfff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-24283b)
